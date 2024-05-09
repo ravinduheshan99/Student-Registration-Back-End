@@ -1,0 +1,9 @@
+
+
+java:S36556"HCall "stud.isPresent()" or "!stud.isEmpty()" before accessing the value.(‚ùõÇıÿÿÿÿ8Öá©³õ1J$911b50c8-9e1a-40e7-8397-1125a7097c25
+‹
+java:S3655&"HCall "stud.isPresent()" or "!stud.isEmpty()" before accessing the value.(âë„8Õá©³õ1J$fe809f5b-087d-4d75-8bf8-b3d43ac4c68b
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Úá©³õ1J$f1a7debc-b346-4769-8f09-fc41b452df50
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Úá©³õ1J$daa73c2c-664b-46aa-abf3-01bb2ba24fc5
